@@ -1,12 +1,12 @@
 COVER_BAND_SETLIST {
     
     background-color: #d2dbc1;
-    width: 50%;
+    width: 60%;
     font-family:"Gill Sans", Helvetica, Arial, sans-serif;
     text-align:left;
     border: 15px solid #54745566;
     padding: 50px;
-    margin: 20px;
+    margin: 100px;
 }
   
 SONG {    
@@ -33,16 +33,10 @@ TITLE {
     color: #b67777;
     font-size: 20pt;
 }
-GENRE:before{
-    content: "\00a0";
-    display: block;
-}
 
-GENRE {
-    display: inline-block;
-}
 
-YEAR {
-    display: inline-block;
-    margin-left: 50px;
+GENRE, YEAR {
+    margin-left: 10px;
+    float: center;
+    font-size: 10pt;
 }
