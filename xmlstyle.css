@@ -1,0 +1,49 @@
+COVER_BAND_SETLIST {
+    
+    background-color: #d2dbc1;
+    width: 50%;
+    font-family:"Gill Sans", Helvetica, Arial, sans-serif;
+    text-align:left;
+    border: 15px solid #54745566;
+    padding: 50px;
+    margin: 20px;
+}
+  
+SONG {    
+    margin-bottom: 30pt;
+    margin-left: 20px;
+    padding-left: 20px;
+    list-style-position : inside;
+    display: list-item;
+    list-style: square;
+}
+
+ARTIST {
+    display: inline-block;
+    color: #9090e2;
+    font-size: 20pt;
+}
+
+ARTIST:after {
+  content: " - ";
+  }
+  
+TITLE {
+    display: inline-block;
+    color: #b67777;
+    font-size: 20pt;
+}
+GENRE:before{
+    content: "\00a0";
+    display: block;
+}
+
+}
+GENRE {
+    display: inline-block;
+}
+
+YEAR {
+    display: inline-block;
+    margin-left: 50px;
+}

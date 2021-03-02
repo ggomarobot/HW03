@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<COVER_BAND_SETLIST>
+    
+  <SONG>
+    <ARTIST>Frank Ocean</ARTIST>
+    <TITLE>Thinkin Bout You</TITLE>
+    <GENRE>R&amp;B</GENRE>
+    <YEAR>2012</YEAR>
+  </SONG>
+   
+  <SONG>
+    <ARTIST>Drake</ARTIST>
+    <TITLE>Passionfruit</TITLE>
+    <GENRE>RAP</GENRE>
+    <YEAR>2017</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>John Mayer</ARTIST>
+    <TITLE>New Light</TITLE>
+    <GENRE>POP</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Earl Sweatshirt</ARTIST>
+    <TITLE>Riot!</TITLE>
+    <GENRE>RAP</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Brockhampton</ARTIST>
+    <TITLE>1999 Wildfire</TITLE>
+    <GENRE>RAP</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Frank Ocean</ARTIST>
+    <TITLE>White Ferrari</TITLE>
+    <GENRE>R&amp;B</GENRE>
+    <YEAR>2016</YEAR>
+  </SONG>
+  
+  <SONG>
+  <ARTIST>Childish Gambino</ARTIST>
+    <TITLE>Redbone</TITLE>
+    <GENRE>R&amp;B</GENRE>
+    <YEAR>2016</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Moses Sumney</ARTIST>
+    <TITLE>Plastic</TITLE>
+    <GENRE>POP</GENRE>
+    <YEAR>2017</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Kehlani</ARTIST>
+    <TITLE>Honey</TITLE>
+    <GENRE>R&amp;B</GENRE>
+    <YEAR>2017</YEAR>
+  </SONG>
+  
+  <SONG>
+    <ARTIST>Childish Gambino</ARTIST>
+    <TITLE>Feels Like Summer</TITLE>
+    <GENRE>R&amp;B</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+
+</COVER_BAND_SETLIST>
