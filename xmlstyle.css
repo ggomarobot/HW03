@@ -35,8 +35,15 @@ TITLE {
 }
 
 
-GENRE, YEAR {
-    margin-left: 10px;
+GENRE {
+    padding: 10px;
+    margin-left: 30px;
+    float: center;
+    font-size: 10pt;
+}
+
+YEAR {
+    margin-left: 5px;
     float: center;
     font-size: 10pt;
 }
